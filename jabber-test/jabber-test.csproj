@@ -91,7 +91,7 @@
     <Reference Include="System.Core" />
     <Reference Include="monotouch" />
     <Reference Include="agsXMPP">
-      <HintPath>..\..\Library XMPP\agsXMPP.dll</HintPath>
+      <HintPath>libs\agsXMPP.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
