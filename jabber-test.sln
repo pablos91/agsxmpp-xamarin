@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jabber-test", "jabber-test\jabber-test.csproj", "{25275F9A-F0F0-4551-98D1-78A197B51CF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		Ad-Hoc|iPhoneSimulator = Ad-Hoc|iPhoneSimulator
+		AppStore|iPhone = AppStore|iPhone
+		AppStore|iPhoneSimulator = AppStore|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25275F9A-F0F0-4551-98D1-78A197B51CF9}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{25275F9A-F0F0-4551-98D1-78A197B51CF9}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{25275F9A-F0F0-4551-98D1-78A197B51CF9}.Ad-Hoc|iPhoneSimulator.ActiveCfg = Ad-Hoc|iPhoneSimulator
+		{25275F9A-F0F0-4551-98D1-78A197B51CF9}.Ad-Hoc|iPhoneSimulator.Build.0 = Ad-Hoc|iPhoneSimulator
+		{25275F9A-F0F0-4551-98D1-78A197B51CF9}.Ad-Hoc|iPhoneSimulator.Deploy.0 = Ad-Hoc|iPhoneSimulator
+		{25275F9A-F0F0-4551-98D1-78A197B51CF9}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{25275F9A-F0F0-4551-98D1-78A197B51CF9}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{25275F9A-F0F0-4551-98D1-78A197B51CF9}.AppStore|iPhoneSimulator.ActiveCfg = AppStore|iPhoneSimulator
+		{25275F9A-F0F0-4551-98D1-78A197B51CF9}.AppStore|iPhoneSimulator.Build.0 = AppStore|iPhoneSimulator
+		{25275F9A-F0F0-4551-98D1-78A197B51CF9}.AppStore|iPhoneSimulator.Deploy.0 = AppStore|iPhoneSimulator
+		{25275F9A-F0F0-4551-98D1-78A197B51CF9}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{25275F9A-F0F0-4551-98D1-78A197B51CF9}.Debug|iPhone.Build.0 = Debug|iPhone
+		{25275F9A-F0F0-4551-98D1-78A197B51CF9}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{25275F9A-F0F0-4551-98D1-78A197B51CF9}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{25275F9A-F0F0-4551-98D1-78A197B51CF9}.Debug|iPhoneSimulator.Deploy.0 = Debug|iPhoneSimulator
+		{25275F9A-F0F0-4551-98D1-78A197B51CF9}.Release|iPhone.ActiveCfg = Release|iPhone
+		{25275F9A-F0F0-4551-98D1-78A197B51CF9}.Release|iPhone.Build.0 = Release|iPhone
+		{25275F9A-F0F0-4551-98D1-78A197B51CF9}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{25275F9A-F0F0-4551-98D1-78A197B51CF9}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
